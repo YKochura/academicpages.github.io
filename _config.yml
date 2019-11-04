@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  theme            : jekyll-theme-minimal
+  theme            : "jekyll-theme-minimal"
 
 
 # Reading Files
